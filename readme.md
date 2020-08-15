@@ -1,0 +1,1 @@
+copiar la carpeta al workspace de Bonitasoft y correrlo
